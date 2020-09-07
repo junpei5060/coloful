@@ -21,3 +21,9 @@
         }
     }
 </script>
+
+<style scoped>
+.card{
+    margin-top: 100px;
+}
+</style>
